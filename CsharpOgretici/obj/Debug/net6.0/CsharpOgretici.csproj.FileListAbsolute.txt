@@ -1,0 +1,45 @@
+C:\Users\Yakup KAYA\Desktop\Setup\Githuba Eklenecekler\CsharpOgretici\bin\Debug\net6.0\CsharpOgretici.exe
+C:\Users\Yakup KAYA\Desktop\Setup\Githuba Eklenecekler\CsharpOgretici\bin\Debug\net6.0\CsharpOgretici.deps.json
+C:\Users\Yakup KAYA\Desktop\Setup\Githuba Eklenecekler\CsharpOgretici\bin\Debug\net6.0\CsharpOgretici.runtimeconfig.json
+C:\Users\Yakup KAYA\Desktop\Setup\Githuba Eklenecekler\CsharpOgretici\bin\Debug\net6.0\CsharpOgretici.dll
+C:\Users\Yakup KAYA\Desktop\Setup\Githuba Eklenecekler\CsharpOgretici\bin\Debug\net6.0\ref\CsharpOgretici.dll
+C:\Users\Yakup KAYA\Desktop\Setup\Githuba Eklenecekler\CsharpOgretici\bin\Debug\net6.0\CsharpOgretici.pdb
+C:\Users\Yakup KAYA\Desktop\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.csproj.AssemblyReference.cache
+C:\Users\Yakup KAYA\Desktop\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yakup KAYA\Desktop\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.AssemblyInfoInputs.cache
+C:\Users\Yakup KAYA\Desktop\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.AssemblyInfo.cs
+C:\Users\Yakup KAYA\Desktop\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.csproj.CoreCompileInputs.cache
+C:\Users\Yakup KAYA\Desktop\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.dll
+C:\Users\Yakup KAYA\Desktop\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\ref\CsharpOgretici.dll
+C:\Users\Yakup KAYA\Desktop\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.pdb
+C:\Users\Yakup KAYA\Desktop\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.genruntimeconfig.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.csproj.AssemblyReference.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.AssemblyInfoInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.AssemblyInfo.cs
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.csproj.CoreCompileInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\ref\CsharpOgretici.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\CsharpOgretici\bin\Debug\net6.0\CsharpOgretici.exe
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\CsharpOgretici\bin\Debug\net6.0\CsharpOgretici.deps.json
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\CsharpOgretici\bin\Debug\net6.0\CsharpOgretici.runtimeconfig.json
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\CsharpOgretici\bin\Debug\net6.0\CsharpOgretici.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\CsharpOgretici\bin\Debug\net6.0\ref\CsharpOgretici.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\CsharpOgretici\bin\Debug\net6.0\CsharpOgretici.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.genruntimeconfig.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\CsharpOgretici\bin\Debug\net6.0\CsharpOgretici.exe
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\CsharpOgretici\bin\Debug\net6.0\CsharpOgretici.deps.json
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\CsharpOgretici\bin\Debug\net6.0\CsharpOgretici.runtimeconfig.json
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\CsharpOgretici\bin\Debug\net6.0\CsharpOgretici.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\CsharpOgretici\bin\Debug\net6.0\ref\CsharpOgretici.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\CsharpOgretici\bin\Debug\net6.0\CsharpOgretici.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.csproj.AssemblyReference.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.AssemblyInfoInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.AssemblyInfo.cs
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.csproj.CoreCompileInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\CsharpOgretici\obj\Debug\net6.0\ref\CsharpOgretici.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\CsharpOgretici\obj\Debug\net6.0\CsharpOgretici.genruntimeconfig.cache

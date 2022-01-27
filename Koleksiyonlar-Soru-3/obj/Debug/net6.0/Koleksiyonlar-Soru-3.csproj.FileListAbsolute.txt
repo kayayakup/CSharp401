@@ -1,0 +1,15 @@
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.exe
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.deps.json
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.runtimeconfig.json
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Koleksiyonlar-Soru-3\bin\Debug\net6.0\ref\Koleksiyonlar-Soru-3.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Koleksiyonlar-Soru-3\bin\Debug\net6.0\Koleksiyonlar-Soru-3.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.csproj.AssemblyReference.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.AssemblyInfoInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.AssemblyInfo.cs
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.csproj.CoreCompileInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Koleksiyonlar-Soru-3\obj\Debug\net6.0\ref\Koleksiyonlar-Soru-3.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Koleksiyonlar-Soru-3\obj\Debug\net6.0\Koleksiyonlar-Soru-3.genruntimeconfig.cache
