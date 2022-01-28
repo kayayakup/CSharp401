@@ -227,20 +227,51 @@ namespace CSharpOgretici // Note: actual namespace depends on the project name.
             //     Console.WriteLine(kelime);
             // }
 
-            List<Kullanicilar> Kullanicilistesi=new List<Kullanicilar>();
-            Kullanicilar kullanici1=new Kullanicilar();
+            // List<Kullanicilar> Kullanicilistesi=new List<Kullanicilar>();
+            // Kullanicilar kullanici1=new Kullanicilar();
 
-            kullanici1.Isim="Ukuo";
-            kullanici1.SoyIsim="kuo";
-            kullanici1.Yas=20;
+            // kullanici1.Isim="Ukuo";
+            // kullanici1.SoyIsim="kuo";
+            // kullanici1.Yas=20;
 
-            Console.WriteLine(kullanici1.Isim);
-            Console.WriteLine(kullanici1.SoyIsim);
-            Console.WriteLine(kullanici1.Yas);
+            // Console.WriteLine(kullanici1.Isim);
+            // Console.WriteLine(kullanici1.SoyIsim);
+            // Console.WriteLine(kullanici1.Yas);
 
+            Kullanicilar kc=new Kullanicilar();
+            kc.isim="yakup";
+            kc.soyisim="kaya";
+            kc.yas=20;
+            kc.department="software";
+            kc.calisanlar();
         }
+    }
 
-        class toplama
+    class Kullanicilar
+    {
+        // private string isim;
+        // private string soyisim;
+        // private int yas;
+
+        // public string Isim { get => isim; set => isim = value; }
+        // public string SoyIsim { get => soyisim; set => soyisim = value; }
+        // public int Yas { get => yas; set => yas = value; }
+
+        public string isim;
+        public string soyisim;
+        public int yas;
+        public string department;
+
+        public void calisanlar()
+        {
+            Console.WriteLine("Çalışanın adı: "+ isim);
+            Console.WriteLine("Çalışanın soyadı: "+ soyisim);
+            Console.WriteLine("Çalışanın yasi: "+ yas);
+            Console.WriteLine("Çalışanın departmanı: "+ department);
+        }
+    }
+
+    class toplama
         {
             //overloadin işlemleri
             // public int toplam(ref int deger1,ref int deger2){
@@ -266,19 +297,6 @@ namespace CSharpOgretici // Note: actual namespace depends on the project name.
 
             
         }
-
-    }
-
-    public class Kullanicilar
-    {
-        private string isim;
-        private string soyisim;
-        private int yas;
-
-        public string Isim { get => isim; set => isim = value; }
-        public string SoyIsim { get => soyisim; set => soyisim = value; }
-        public int Yas { get => yas; set => yas = value; }
-    }
 
     //extencion class
     // public static class Extension
