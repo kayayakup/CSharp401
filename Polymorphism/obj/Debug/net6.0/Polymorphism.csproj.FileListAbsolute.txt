@@ -1,0 +1,15 @@
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Polymorphism\bin\Debug\net6.0\Polymorphism.exe
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Polymorphism\bin\Debug\net6.0\Polymorphism.deps.json
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Polymorphism\bin\Debug\net6.0\Polymorphism.runtimeconfig.json
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Polymorphism\bin\Debug\net6.0\Polymorphism.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Polymorphism\bin\Debug\net6.0\ref\Polymorphism.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Polymorphism\bin\Debug\net6.0\Polymorphism.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.AssemblyReference.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Polymorphism\obj\Debug\net6.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfoInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Polymorphism\obj\Debug\net6.0\Polymorphism.AssemblyInfo.cs
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Polymorphism\obj\Debug\net6.0\Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Polymorphism\obj\Debug\net6.0\Polymorphism.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Polymorphism\obj\Debug\net6.0\ref\Polymorphism.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Polymorphism\obj\Debug\net6.0\Polymorphism.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Polymorphism\obj\Debug\net6.0\Polymorphism.genruntimeconfig.cache

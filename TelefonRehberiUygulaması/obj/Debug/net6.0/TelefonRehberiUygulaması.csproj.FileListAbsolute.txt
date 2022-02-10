@@ -1,0 +1,15 @@
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\TelefonRehberiUygulaması\bin\Debug\net6.0\TelefonRehberiUygulaması.exe
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\TelefonRehberiUygulaması\bin\Debug\net6.0\TelefonRehberiUygulaması.deps.json
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\TelefonRehberiUygulaması\bin\Debug\net6.0\TelefonRehberiUygulaması.runtimeconfig.json
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\TelefonRehberiUygulaması\bin\Debug\net6.0\TelefonRehberiUygulaması.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\TelefonRehberiUygulaması\bin\Debug\net6.0\ref\TelefonRehberiUygulaması.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\TelefonRehberiUygulaması\bin\Debug\net6.0\TelefonRehberiUygulaması.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\TelefonRehberiUygulaması\obj\Debug\net6.0\TelefonRehberiUygulaması.csproj.AssemblyReference.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\TelefonRehberiUygulaması\obj\Debug\net6.0\TelefonRehberiUygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\TelefonRehberiUygulaması\obj\Debug\net6.0\TelefonRehberiUygulaması.AssemblyInfoInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\TelefonRehberiUygulaması\obj\Debug\net6.0\TelefonRehberiUygulaması.AssemblyInfo.cs
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\TelefonRehberiUygulaması\obj\Debug\net6.0\TelefonRehberiUygulaması.csproj.CoreCompileInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\TelefonRehberiUygulaması\obj\Debug\net6.0\TelefonRehberiUygulaması.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\TelefonRehberiUygulaması\obj\Debug\net6.0\ref\TelefonRehberiUygulaması.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\TelefonRehberiUygulaması\obj\Debug\net6.0\TelefonRehberiUygulaması.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\TelefonRehberiUygulaması\obj\Debug\net6.0\TelefonRehberiUygulaması.genruntimeconfig.cache
