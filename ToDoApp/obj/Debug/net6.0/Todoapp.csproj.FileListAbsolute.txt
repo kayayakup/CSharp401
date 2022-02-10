@@ -1,0 +1,15 @@
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Todoapp\bin\Debug\net6.0\Todoapp.exe
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Todoapp\bin\Debug\net6.0\Todoapp.deps.json
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Todoapp\bin\Debug\net6.0\Todoapp.runtimeconfig.json
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Todoapp\bin\Debug\net6.0\Todoapp.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Todoapp\bin\Debug\net6.0\ref\Todoapp.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Todoapp\bin\Debug\net6.0\Todoapp.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Todoapp\obj\Debug\net6.0\Todoapp.csproj.AssemblyReference.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Todoapp\obj\Debug\net6.0\Todoapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Todoapp\obj\Debug\net6.0\Todoapp.AssemblyInfoInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Todoapp\obj\Debug\net6.0\Todoapp.AssemblyInfo.cs
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Todoapp\obj\Debug\net6.0\Todoapp.csproj.CoreCompileInputs.cache
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Todoapp\obj\Debug\net6.0\Todoapp.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Todoapp\obj\Debug\net6.0\ref\Todoapp.dll
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Todoapp\obj\Debug\net6.0\Todoapp.pdb
+C:\Users\yakup\OneDrive\Masaüstü\Setup\Githuba Eklenecekler\C#101\Todoapp\obj\Debug\net6.0\Todoapp.genruntimeconfig.cache

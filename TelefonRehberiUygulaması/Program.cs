@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TelefonRehberiUygulaması
+namespace contacts_app_csharp
 {
     class Program
     {
